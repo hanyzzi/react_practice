@@ -1,0 +1,16 @@
+.main {
+
+  background-color: #eee;
+}
+
+.inner {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  color: #333;
+}
